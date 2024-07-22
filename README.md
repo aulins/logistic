@@ -1,2 +1,2 @@
-# logostic
+# logistic
 web
